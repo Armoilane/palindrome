@@ -1,0 +1,24 @@
+{
+  "name": "armo-palindrome",
+  "version": "0.1.0",
+  "description": "Palindrome detector",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Armoilane/palindrome.git"
+  },
+  "keywords": [
+    "javascript",
+    "palindrome",
+    "learn-enough"
+  ],
+  "author": "Ari Moilanen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Armoilane/palindrome/issues"
+  },
+  "homepage": "https://github.com/Armoilane/palindrome#readme"
+}
